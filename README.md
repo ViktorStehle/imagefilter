@@ -1,7 +1,7 @@
 # Image filter with C
 A project for my edx computer science course. 
 
-I had to develope a good understanding of how C works and for further improvment I added extra filter ideas:
+I had to develop a good understanding of how C works and for further improvement I added extra filter ideas:
 
 ### Greyscale 
 ![Greyscale](https://user-images.githubusercontent.com/106766191/195436545-0c15821b-1a67-4097-a7ea-f329b5363261.png)
@@ -27,4 +27,4 @@ I had to develope a good understanding of how C works and for further improvment
 ### Sepia
 ![Sepia](https://user-images.githubusercontent.com/106766191/195435812-2cc7f453-9ac2-4ecc-803f-4fb3058c3fb2.png)
 
-It takes a commend line argument and a file.bmp as input and gives an output.bmp with the choosen filter applied.
+It takes a command line argument and a file.bmp as input and gives an output.bmp with the chosen filter applied.
